@@ -1,0 +1,20 @@
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.exe.config
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.exe
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.pdb
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csprojAssemblyReference.cache
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.Form1.resources
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.Properties.Resources.resources
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csproj.GenerateResource.cache
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.exe
+C:\Users\isikm\visual studio 2017\Mayın_Tarlası_Oyunu\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.pdb
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.exe
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\bin\Debug\Mayın_Tarlası_Oyunu.pdb
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.exe
+C:\Users\muham\OneDrive\Masaüstü\Mayın_Tarlası_Oyunu_230541034\Mayın_Tarlası_Oyunu\obj\Debug\Mayın_Tarlası_Oyunu.pdb
